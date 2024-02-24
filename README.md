@@ -35,7 +35,7 @@
 <h2 align="center"> 🧑‍💻 Languages and Tools </h2>
 <div>
 <br/>
-<img src = "https://user-images.githubusercontent.com/60073882/180641984-79a4cc15-2544-4ad4-bd4b-a7c692a4ab74.gif" align="right" width="350" >
+<img src = "https://user-images.githubusercontent.com/60073882/180641984-79a4cc15-2544-4ad4-bd4b-a7c692a4ab74.gif" align="right" width="360" >
 <a href="#"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/></a>
