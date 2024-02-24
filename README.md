@@ -14,7 +14,6 @@
 <li><b>Gender :</b> Men</li>
 <li><b>Age :</b> 25</li>
 <li><b>Nationality :</b> Thai</li>
-<li><b>Religion :</b> Buddhism</li>
 <li><b>Hobby :</b> Learning HTML , CSS , Javascript , PHP , MySQL & Other </li>
 <li><b>Love :</b> Watch Anime , Listen the Music , Playing the Games</li>
 <li><b>Favourite Anime :</b> The Angel Next Door Spoils Me Rotten </li>
