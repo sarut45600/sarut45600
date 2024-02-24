@@ -93,6 +93,6 @@
 <div>
 <br/>
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/60073882/168597534-4b94735a-5c65-4e8e-bde8-fed99b26a047.gif">
+  <img src = "https://media1.tenor.com/m/-DdP7PTL6r8AAAAC/furina-focalors.gif">
 </p>
 </div>
