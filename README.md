@@ -40,8 +40,9 @@
 <a href="#"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/></a>
-<a href="#"><img align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/></a>
+<a href="#"><img align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/></a>
+<a href="#"><img align="left" alt="Typescript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="Vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/></a><br/><br/><br/>
 <a href="#"><img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/></a>
