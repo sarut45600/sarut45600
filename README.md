@@ -35,7 +35,7 @@
 <h2 align="center"> 🧑‍💻 Languages and Tools </h2>
 <div>
 <br/>
-<img src = "https://media1.tenor.com/m/O0Rd9v0NpjkAAAAC/keqing-genshin-impact.gif" align="right" width="360" height = "247" >
+<img src = "https://media1.tenor.com/m/R7wQkMJuDlgAAAAC/nahida-kusanali.gif" align="right" width="360" height = "247" >
 <a href="#"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/></a>
 <a href="#"><img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/></a>
