@@ -8,7 +8,7 @@
 <h2 align="center">🤔 About me</h2>
 <div>
 <br/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlka3M4M2ozNzE0aTI0Nm5sZ2lhYWxuMm5xODNmZm8yOTc3dDg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X2fnOSrcMA0ygU30MP/giphy.gif" align="right" width="350" >
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlka3M4M2ozNzE0aTI0Nm5sZ2lhYWxuMm5xODNmZm8yOTc3dDg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X2fnOSrcMA0ygU30MP/giphy.gif" align="right" width="360" >
 <li><b>Name :</b> Sarut Mingnun</li>
 <li><b>Nickname :</b> Mark</li>
 <li><b>Gender :</b> Men</li>
