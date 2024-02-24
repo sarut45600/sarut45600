@@ -77,7 +77,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif"  align = "left" width="360" height = "360" >
 <img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif"  align = "right" width="360"  height = "360" >
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 </div>
 
 <div align = "center">
