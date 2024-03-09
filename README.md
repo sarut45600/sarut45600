@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="#"></a>&nbsp;Hi there I'm Mark</h1>
 <br/>
 <div align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147530973/279570413-771a2e24-07a1-432b-867f-6c36163fbbd6.png">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/147530973/311453824-2c5f21ba-62d1-4286-ba41-cbd505af5bcb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240309T164855Z&X-Amz-Expires=300&X-Amz-Signature=cc96ae2c4985af8f384215c7af7b9cfb2083e200178d50d1d1fbd5d8901c4ec0&X-Amz-SignedHeaders=host&actor_id=147530973&key_id=0&repo_id=712955275">
+
 </div>
 <br/>
 
