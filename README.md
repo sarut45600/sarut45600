@@ -25,11 +25,11 @@
 <br/>
 
 <h3>Introduce yourself</h3>
-🙋‍♂️ Hello, I'm Sarut Mingnun, or Mark. I'm a person who loves and is passionate about programming. And fix computer problems, whether it's checking hardware devices, but where is broken or damaged. And software, whether it's installing Windows, installing programs, etc.,  😎<br/><br/>
+👋 Hello, I'm Sarut Mingnun, or Mark. I'm a person who loves and is passionate about programming. And fix computer problems, whether it's checking hardware devices, but where is broken or damaged. And software, whether it's installing Windows, installing programs, etc., 😎<br/><br/>
 
 </div>
 
-<h2 align="center"> 🧑‍💻 Languages and Tools </h2>
+<h2 align="center"> 👨‍💻 Languages and Tools </h2>
 <div>
 <br/>
 <img src = "https://media1.tenor.com/m/R7wQkMJuDlgAAAAC/nahida-kusanali.gif" align="right" width="360" height = "247" >
