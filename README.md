@@ -24,10 +24,6 @@
 <li><b>Favourite Videogames :</b> Genshin Impact </li>
 <br/>
 
-<h3>แนะนำตัว</h3>
-
-🙋‍♂️ สวัสดีครับ ผม ศรุต มิ่งนันท์ หรือ มาร์ค เป็นคนที่รักและหลงใหลเกี่ยวกับการเขียนโปรแกรม และแก้ไขปัญหาคอมพิวเตอร์ไม่ว่าจะเป็นการตรวจเช็คอุปกรณ์ฮาร์ดแวร์ว่าส่วนไหนชำรุดหรือเสียหาย และซอฟต์แวร์ ไม่ว่าจะเป็น ติดตั้ง Windows, ติดตั้งโปรแกรม ฯลฯ 😎 <br/><br/>
-
 <h3>Introduce yourself</h3>
 🙋‍♂️ Hello, I'm Sarut Mingnun, or Mark. I'm a person who loves and is passionate about programming. And fix computer problems, whether it's checking hardware devices, but where is broken or damaged. And software, whether it's installing Windows, installing programs, etc.,  😎<br/><br/>
 
