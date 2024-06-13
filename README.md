@@ -61,10 +61,10 @@
 <div>  
 <br/>
   <a href="https://github-readme-stats.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api?username=sarut45600&show_icons=true&theme=tokyonight&line_height=31" width="442">
+        <img src="https://github-readme-stats.vercel.app/api?username=sarut45600&show_icons=true&theme=tokyonight&line_height=31" width="440">
   </a>
   <a href="https://github-readme-stats.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarut45600&layout=compact&langs_count=20" width="398">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarut45600&layout=compact&langs_count=20" width="396">
    </a>
 <br/><br/>
 </div>
