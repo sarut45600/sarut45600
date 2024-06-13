@@ -61,10 +61,10 @@
 <div>  
 <br/>
   <a href="https://github-readme-stats.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api?username=sarut45600&show_icons=true&theme=tokyonight&line_height=31" width="440">
+        <img src="https://github-readme-stats.vercel.app/api?username=sarut45600&show_icons=true&theme=tokyonight&line_height=31" width="442">
   </a>
   <a href="https://github-readme-stats.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarut45600&layout=compact&langs_count=20" width="396">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarut45600&layout=compact&langs_count=20" width="398">
    </a>
 <br/><br/>
 </div>
@@ -80,8 +80,8 @@
 </div>
 
 <div align = "center">
-<img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif"  align = "left" width="423" height = "423" >
-<img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif"  align = "right" width="423"  height = "423" >
+<img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif"  align = "left" width="422" height = "423" >
+<img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif"  align = "right" width="422"  height = "423" >
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 </div>
