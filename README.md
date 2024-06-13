@@ -72,7 +72,7 @@
 <h2 align = "center">📝 Contact me</h2>
 <div align = "center"> 
 <br/><br/>
-<a href="https://www.facebook.com/sarut45600"><img alt="Facebook" width="50px" src="https://user-images.githubusercontent.com/60073882/173194363-36ad9f09-ad38-47bc-8328-6d7ac26cda2a.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/sarut45600"><img alt="Facebook" width="50px" src="https://user-images.githubusercontent.com/60073882/173194363-36ad9f09-ad38-47bc-8328-6d7ac26cda2a.png" style="mpadding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sarut45600"><img alt="instagram" width="50px" src="https://user-images.githubusercontent.com/60073882/173193806-e64ff1f8-21d2-4387-acdb-281406439006.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/sarut45600"><img  alt="twitter" width="50px" src="https://user-images.githubusercontent.com/60073882/173195146-f55e21e7-4d60-4b65-b44e-7f7e237df0ee.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://line.me/ti/p/_jSQQN6Mv2"><img alt="line" width="50px" src="https://user-images.githubusercontent.com/60073882/173193880-cddf05a8-a67f-43a2-a481-9d4b1416625f.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
