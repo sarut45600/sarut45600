@@ -76,13 +76,13 @@
 <a href="https://www.instagram.com/sarut45600"><img alt="instagram" width="50px" src="https://user-images.githubusercontent.com/60073882/173193806-e64ff1f8-21d2-4387-acdb-281406439006.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/sarut45600"><img  alt="twitter" width="50px" src="https://user-images.githubusercontent.com/60073882/173195146-f55e21e7-4d60-4b65-b44e-7f7e237df0ee.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://line.me/ti/p/_jSQQN6Mv2"><img alt="line" width="50px" src="https://user-images.githubusercontent.com/60073882/173193880-cddf05a8-a67f-43a2-a481-9d4b1416625f.png" style="padding-right:10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 </div>
 
 <div align = "center">
 <img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif" align = "left" width="400" height = "423" >
 <img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif" align = "right" width="400" height = "423" >
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 </div>
 
