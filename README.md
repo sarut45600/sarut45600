@@ -24,6 +24,9 @@
 <li><b>Favourite Videogames :</b> Genshin Impact </li>
 <br/>
 
+<h3>แนะนำตัว</h3>
+👋 สวัสดีครับ ผม ศรุต มิ่งนันท์ หรือ มาร์ค เป็นคนที่รักและหลงใหลเกี่ยวกับการเขียนโปรแกรม และแก้ไขปัญหาคอมพิวเตอร์ไม่ว่าจะเป็นการตรวจเช็คอุปกรณ์ฮาร์ดแวร์ว่าส่วนไหนชำรุดหรือเสียหาย และซอฟต์แวร์ ไม่ว่าจะเป็น ติดตั้ง Windows, ติดตั้งโปรแกรม ฯลฯ 😎 <br/><br/>
+
 <h3>Introduce yourself</h3>
 👋 Hello, I'm Sarut Mingnun, or Mark. I'm a person who loves and is passionate about programming. And fix computer problems, whether it's checking hardware devices, but where is broken or damaged. And software, whether it's installing Windows, installing programs, etc., 😎<br/><br/>
 
@@ -80,8 +83,8 @@
 </div>
 
 <div align = "center">
-<img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif" width="421" height = "423" >
-<img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif" width="421" height = "423" >
+<img src="https://user-images.githubusercontent.com/60073882/180642203-edbdaf92-c93b-4096-b4a0-4f99be52e407.gif" align = "left" width="423" height = "423" >
+<img src="https://user-images.githubusercontent.com/60073882/180642409-7e1ec5b2-afb7-4623-9d62-e9d14e652721.gif" align = "right" width="423" height = "423" >
 <br/><br/><br/>
 
 </div>
