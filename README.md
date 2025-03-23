@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="#"></a>&nbsp;Hi there I'm Mark</h1>
 <br/>
 <div align="center">
-<img src="https://i.imgur.com/1F1746q.jpg">
+<img src="https://i.imgur.com/uthBpji.jpg">
 
 </div>
 <br/>
