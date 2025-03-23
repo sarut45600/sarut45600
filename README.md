@@ -32,7 +32,7 @@
 
 </div>
 
-<h2 align="center"> 👨‍💻 Languages and Tools </h2>
+<h2 align="center"> 👨‍💻 Techstack and Tools </h2>
 <div>
 <br/>
 <img src = "https://media1.tenor.com/m/R7wQkMJuDlgAAAAC/nahida-kusanali.gif" align="right" width="360" height = "247" >
