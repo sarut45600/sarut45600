@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#" onclick="return false;" style="pointer-events: none; text-decoration: none;" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a>&nbsp;Hi there I'm Mark</h1>
 <br/>
 <div align="center">
-<a href="#" onclick="return false;" style="pointer-events: none; text-decoration: none;" ><img src="https://i.imgur.com/8Rgxsib.png"></a>
+<a href="#" onclick="return false;" style="pointer-events: none; text-decoration: none;" ><img src="https://i.imgur.com/7NL2dRj.png"></a>
 
 </div>
 <br/>
